@@ -1,5 +1,5 @@
 # Heart_Disease_Prediction_Using_MachineLearning
-Heart Disease Prediction Using Top 10 Machine Learning Algorithms
+Performance of Top 10 Machine Learning Algorithms for Heart Disease Prediction 
 ->Random Forest ALgorithm
 ->KNN Algorithm
 ->ANN Algorithm
@@ -11,4 +11,4 @@ Heart Disease Prediction Using Top 10 Machine Learning Algorithms
 ->SVM ALgorithm
 ->Naive Bayes Algorithm
 
-Here, I applied all the 10 machine learning algorithm models to predict whether the person is suffering with heart disease or not.
+Here, I applied all the 10 machine learning algorithm models to predict whether the person is suffering with heart disease or not and did the the performance analysis on those 10 algorithms by calculating accuracy, precision, recall, f1_score etc...
